@@ -22,7 +22,7 @@
 6. Comprobar que las gráficas funcionan en el "localhost:4200".
 
 
-Hemos representado 3 gráficas, 
+Hemos representado 3 gráficas: 
 
  - La primera de ellas tiene el servidor montado, contendrá los datos de un mercado virtual, que se irán actualizando. Mostrando los datos  en tiempo real, actualizándolos cada 5 segundos.
  
