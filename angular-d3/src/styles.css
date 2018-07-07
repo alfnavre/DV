@@ -1,0 +1,28 @@
+/* You can add global styles to this file, and also import other style files */
+
+h1 {
+
+	text-align: center;
+}
+
+.margen{
+	margin-left: 13%;
+}
+
+.margen2{
+	margin-left: 18%;
+}
+
+ .svg-div{
+     display: inline-block;
+     margin: 0 auto;
+  }
+
+
+ .navigation
+{
+    width:500px;
+    margin:50px ;
+    float:right;
+    top:-40px;
+}
